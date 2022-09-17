@@ -44,6 +44,7 @@ img {
 body {
   font-family: "Poppins";
   overflow-x: hidden;
+    overflow-y: hidden;
 }
 body.locked {
   overflow: hidden;
